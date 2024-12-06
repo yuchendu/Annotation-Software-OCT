@@ -12,11 +12,12 @@ OCT image could be loaded via push the "Open" button. Only one image could be lo
 
 ![The main window](https://github.com/yuchendu/Annotation-Software-OCT/blob/main/assets/images/image012.jpg)
 
-### Single lesion region annotation 
-The left part of the window is the operation panel. It supports up to six types of lesions to be annotated, seperately. Pushing the button, the annotation procedure would be activated.
+### lesion-type selection and lesion region annotation 
+The left part of the window is the operation panel. It supports up to six types of lesions to be annotated, seperately. Pushing the button, the corresponding type of lesions annotation would be activated.
 
 ![The main window](https://github.com/yuchendu/Annotation-Software-OCT/blob/main/assets/images/image014.jpg)
 
+### Multi-regions annotation of a certain type of lesions
 For each type of lesions, up to 12 contours are supported. Pushing "+" to add a new contour, while pushing "-" to delete one. 
 
 ![The main window](https://github.com/yuchendu/Annotation-Software-OCT/blob/main/assets/images/image016.jpg)
